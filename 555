@@ -114,9 +114,9 @@
 	  </td>
 	  <p style="line-height:10px;">
 	  <br><input type="checkbox"  value="1">我同意信息录入</p>
-	      <td><input type="submit" value="立刻注册">
+	      <br><input type="submit" value="立刻注册">
 	       <input type="reset" value="重新输入">
-	       </td>
+	       </br>
 	      </table>
 	      
 	      </body>
