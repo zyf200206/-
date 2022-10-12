@@ -109,9 +109,9 @@
 	  <input type="checkbox" name="hobby" value="3">游泳
 	  <input type="checkbox" name="hobby" value="4">阅读</p>
 	  <p>个人介绍：</p>
-	  <td>
+	  <tr>
 		<textarea name="comment" rows="5" cols="30">请输入你的个人介绍:</textarea>
-	  </td>
+	  </tr>
 	  <p style="line-height:10px;">
 	  <br><input type="checkbox"  value="1">我同意信息录入</p>
 	      <td><input type="submit" value="立刻注册">
