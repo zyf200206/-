@@ -23,11 +23,11 @@
       </form></p>
     <p style="line-height:10px;"><br>性别
       <input type="radio" name="sex" value="1">
-      <img src="man.jpg" width="16px" height="16px" border="0" alt="">男士 
+      <img src="man.jpg" width="16px" height="16px" border="0" >男士 
     
      
      <input type="radio" name="sex" value="0">
-     <img src="woman.jpg" width="16px" height="16px" border="0" alt="">女士<br>
+     <img src="woman.jpg" width="16px" height="16px" border="0" >女士<br>
     </p>
     
     <label for=birthday>生日:
