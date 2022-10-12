@@ -35,8 +35,6 @@
      <select birth="year">   
       <option value="">--请选择年份--</option> 
       
-    
-    <option>1993</option>
     <option>1994</option>
     <option>1995</option>
     <option>1996</option>
@@ -46,7 +44,7 @@
     <option>2000</option>
     <option>2001</option>
     <option>2002</option>
-    <option>2003</option>
+    
     <th></th>
     
     
