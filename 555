@@ -113,7 +113,7 @@
 	  <input type="checkbox" name="hobby" value="4">阅读</p>
 	  <p>个人介绍：</p>
 	  <td>
-		<textarea name="comment" rows="5" cols="30">自我介绍:</textarea>
+		<textarea name="comment" rows="5" cols="30">请输入你的个人介绍:</textarea>
 	  </td>
 	  <p style="line-height:10px;">
 	  <br><input type="checkbox"  value="1">我同意信息录入</p>
